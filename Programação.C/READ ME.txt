@@ -1,0 +1,8 @@
+Son Of Obsidian Theme for Code Blocks. 
+Installation : just copy the CONF file "default" in the folder of installation of Code Blocks.
+Notice : when you start CodeBlocks after the installaiton of the theme, make sur to run CodeBlocks as Administrator
+and choose if you want to change the settings, thant save the changes, close CodeBlocks and run it normaly.
+
+For the things of "cannot save config file", don"t worry about it because if you run CodeBlocks without administrator, then any
+changes will be saved.
+
